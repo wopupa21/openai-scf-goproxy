@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	targetUrl := "https://api.openai.com" // 目标域名和端口
+	targetUrl := "https://buying999.sharepoint.com" // 目标域名和端口
 	target, err := url.Parse(targetUrl)
 	if err != nil {
 		log.Fatal(err)
